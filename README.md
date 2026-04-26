@@ -1,10 +1,11 @@
 # azure-public-blob-storage-project
 This project demonstrates the deployment of a public Azure Blob Storage solution using the Microsoft Azure Portal. It simulates a real-world DevOps scenario where data is migrated to cloud storage and exposed via controlled public access.
+
 The implementation includes:
-Storage account creation
-Public Blob container configuration
-Anonymous access enablement
-Validation of public file access
+1. Storage account creation
+2. Public Blob container configuration
+3. Anonymous access enablement
+4. Validation of public file access
 
 Architecture
 
