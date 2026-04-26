@@ -9,7 +9,7 @@ The implementation includes:
 
 Architecture
 
-```mermaid
+mermaid
 flowchart TD
     A[User / Internet] --> B[Public URL Access]
     B --> C[Azure Storage Account: nautilusst24014]
